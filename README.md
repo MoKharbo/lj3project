@@ -24,6 +24,7 @@ foto 2:
 <img width="650" height="538" alt="image" src="https://github.com/user-attachments/assets/0a547072-201d-4fa2-8bdc-9ea9d33d0252" />
 
 voor foto 2:
+
 foto 2 reference kan je hier onder zien:
 
 
