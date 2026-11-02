@@ -47,4 +47,9 @@ foto 4:
 
 <img width="449" height="608" alt="image" src="https://github.com/user-attachments/assets/96d4de90-2920-4458-bf3b-c9a2bdc9965b" />
 
+voor foto 3:
+foto 3 reference kan je hier onder zien:
+
+<img width="187" height="401" alt="imagetorchholder" src="https://github.com/user-attachments/assets/afd7c8e3-1730-4d0a-b613-0612659e4bdc" />
+
 voor de torch holder een nieuwe manier gebruikt die ik nog nooit eerder heb gebruikt, ik heb met een cube met merge at center gebruikt en dan de vertex gealligned met de reference foto en geextrude en dan heb ik het geconvert naar mesh, ik heb dan de bovenste punt geselect en move cursor to selected, dan heb ik de set origin naar origin to 3d cursor gedaan, en uiteindelijk heb ik in edit mode alles geselecteerd en met de spin tool de torch holder kunnen maken
