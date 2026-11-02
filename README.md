@@ -29,7 +29,7 @@ foto 2 reference kan je hier onder zien:
 
 <img width="492" height="338" alt="image12341234" src="https://github.com/user-attachments/assets/c1bb42af-ab37-46cd-bcd6-33f6f7c6bc4b" />
 
-wat ik als eerst heb gedaan is het onder helft modellen met een cube en in edit mode alles aanpassen op de reference.
+wat ik als eerst heb gedaan is het onder helft modellen met een cube en in edit mode alles aanpassen op de reference, en dan heb ik de twee "sprongen" geextrude en aan gepast met een bevel, boven kant van de kist heb ik geextrude en aangepast heel nauwkeurig met bevel tool en edit mode alle faces bewegen, toen ik klaar was heb ik er voor gekozen om het te texturen zoals het is op de reference, ik heb seams gebruikt om de uv te unwrappen en dan heb ik het gepaint 
 
 foto 3:
 
