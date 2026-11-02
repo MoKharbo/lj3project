@@ -13,3 +13,5 @@ Deze gif is een short snippet van de gameplay dat ik tot nu toe heb
 <img width="449" height="608" alt="image" src="https://github.com/user-attachments/assets/96d4de90-2920-4458-bf3b-c9a2bdc9965b" />
 
 <img width="562" height="621" alt="image" src="https://github.com/user-attachments/assets/7150a64f-d579-4abc-91f8-38bf1335e619" />
+
+Hier kan je een paar blender fotos zien van wat ik in blender heb gemaakt voor de game
