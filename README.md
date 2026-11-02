@@ -55,4 +55,9 @@ foto 3 reference kan je hier onder zien:
 voor de torch holder een nieuwe manier gebruikt die ik nog nooit eerder heb gebruikt, ik heb met een cube met merge at center gebruikt en dan de vertex gealligned met de reference foto en geextrude en dan heb ik het geconvert naar mesh, ik heb dan de bovenste punt geselect en move cursor to selected, dan heb ik de set origin naar origin to 3d cursor gedaan, en uiteindelijk heb ik in edit mode alles geselecteerd en met de spin tool de torch holder kunnen maken
 
 Movement:
+
 <img width="647" height="178" alt="image" src="https://github.com/user-attachments/assets/10d790ef-6377-4fc2-a170-b7683d5f735b" />
+
+<img width="539" height="114" alt="image" src="https://github.com/user-attachments/assets/cf25f0ff-ad9f-49a2-95bb-d0e7da4d6d8c" />
+
+De movement is heel simple, het transformed the player als je met het nieuwe input systeem WASD drukt beweeget de player.
