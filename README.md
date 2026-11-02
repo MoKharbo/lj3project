@@ -39,6 +39,3 @@ foto 4:
 
 <img width="449" height="608" alt="image" src="https://github.com/user-attachments/assets/96d4de90-2920-4458-bf3b-c9a2bdc9965b" />
 
-foto 5:
-
-<img width="562" height="621" alt="image" src="https://github.com/user-attachments/assets/7150a64f-d579-4abc-91f8-38bf1335e619" />
