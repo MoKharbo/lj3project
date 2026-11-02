@@ -11,7 +11,7 @@ foto 1:
 voor foto 1:
 voor de enemy heb ik gekozen voor een skelet hier onder kan je de reference voor de skelet zien:
 
-[foto]
+<img width="660" height="1407" alt="Skeleton" src="https://github.com/user-attachments/assets/d2bcdd14-6cd9-4d28-827d-9d5b54f4a02f" />
 
 wat ik als eerst heb gedaan is de schedel sculpten, ik heb gekozen voor sculpten en niet voor modellen want ik wou verdiepen in sculpten en sculpten lijkt me beter voor schedel zelf.
 en dan was ik begonnen met het ribben, die heb ik gemodelleerd met een cube met een sub… en dan in edit mode aangepast en dan gemirrored, dit heb ik ook voor de armen gedaan.
