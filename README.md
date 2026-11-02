@@ -16,7 +16,7 @@ voor de enemy heb ik gekozen voor een skelet hier onder kan je de reference voor
 
 
 wat ik als eerst heb gedaan is de schedel sculpten, ik heb gekozen voor sculpten en niet voor modellen want ik wou verdiepen in sculpten en sculpten lijkt me beter voor schedel zelf.
-en dan was ik begonnen met het ribben, die heb ik gemodelleerd met een cube met een sub… en dan in edit mode aangepast en dan gemirrored, dit heb ik ook voor de armen gedaan.
+en dan was ik begonnen met het ribben, die heb ik gemodelleerd met een cube met een subdivison surface en dan in edit mode aangepast en dan gemirrored, dit heb ik ook voor de armen gedaan.
 
 foto 2:
 
