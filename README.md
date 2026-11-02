@@ -61,3 +61,13 @@ Movement:
 <img width="539" height="114" alt="image" src="https://github.com/user-attachments/assets/cf25f0ff-ad9f-49a2-95bb-d0e7da4d6d8c" />
 
 De movement is heel simple, het transformed the player als je met het nieuwe input systeem WASD drukt beweeget de player.
+
+https://github.com/MoKharbo/lj3project/blob/main/Assets/Scripts/Player/PlayerController.cs
+
+Rotation:
+
+<img width="590" height="324" alt="image" src="https://github.com/user-attachments/assets/28a7c22d-feaf-435b-9682-0ef9c4e3ff34" />
+
+Deze script zorgt ervoor dat de player rotate met basis van waar je mouse position is using screen point to ray
+
+https://github.com/MoKharbo/lj3project/blob/main/Assets/Scripts/Player/PlayerRotation.cs
