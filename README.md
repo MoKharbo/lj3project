@@ -4,6 +4,9 @@
 
 Deze gif is een short snippet van de gameplay dat ik tot nu toe heb
 
+
+
+
 foto 1:
 
 <img width="583" height="689" alt="image" src="https://github.com/user-attachments/assets/90e0c0b7-fef0-43a9-98b9-1c9eba1a4b34" />
