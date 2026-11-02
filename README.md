@@ -4,7 +4,7 @@
 
 Deze gif is een short snippet van de gameplay dat ik tot nu toe heb
 
-<img width="496" height="529" alt="image" src="https://github.com/user-attachments/assets/01d109d2-7a6c-41f2-b681-6aab0e934683" />
+<img width="583" height="689" alt="image" src="https://github.com/user-attachments/assets/90e0c0b7-fef0-43a9-98b9-1c9eba1a4b34" />
 
 <img width="650" height="538" alt="image" src="https://github.com/user-attachments/assets/0a547072-201d-4fa2-8bdc-9ea9d33d0252" />
 
