@@ -27,8 +27,9 @@ voor foto 2:
 foto 2 reference kan je hier onder zien:
 
 
+<img width="492" height="338" alt="image12341234" src="https://github.com/user-attachments/assets/c1bb42af-ab37-46cd-bcd6-33f6f7c6bc4b" />
 
-
+wat ik als eerst heb gedaan is het onder helft modellen met een cube en in edit mode alles aanpassen op de reference.
 
 foto 3:
 
