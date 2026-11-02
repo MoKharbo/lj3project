@@ -46,3 +46,4 @@ foto 4:
 
 <img width="449" height="608" alt="image" src="https://github.com/user-attachments/assets/96d4de90-2920-4458-bf3b-c9a2bdc9965b" />
 
+voor de vase een nieuwe manier gebruikt die ik nog nooit eerder heb gebruikt, ik heb met een cube met merge at center gebruikt en dan de vertex gealligned met de reference foto en geextrude en dan heb ik het geconvert naar mesh, ik heb dan de bovenste punt geselect en move cursor to selected, dan heb ik de set origin naar origin to 3d cursor gedaan, en uiteindelijk heb ik in edit mode alles geselecteerd en met de spin tool de vase kunnen maken
