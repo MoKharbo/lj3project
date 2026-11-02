@@ -35,6 +35,13 @@ foto 3:
 
 <img width="696" height="796" alt="image" src="https://github.com/user-attachments/assets/05f1f2e2-bcf4-49e6-bb4d-c5da461fc9f4" />
 
+voor foto 3:
+foto 3 reference kan je hier onder zien:
+
+<img width="410" height="316" alt="imagFDHDZFNXDTFYHM" src="https://github.com/user-attachments/assets/a74f96f7-1345-4fa5-8d0d-344f2da944b2" />
+
+Hoe ik de fireplace heb gemaakt is eerste de "base" van de fireplace met een cube gescaled en dan heb ik die langzaam geextrude tot dat ik de helft van de fireplace ben gekomen, die moest ik heel vaak extruden, loop cutten en bevellen want het was complex en gedetailleerd dat heb ik ook voor het bovenste gedeelte gedaan, toen moest ik de pilaren maken, ik heb een nieuwe cube toegevoegd en die geextrude en gebevelled tot dat het zelfde uitzag als de reference, en dan heb ik als laatst de firebox naar achter extrude zelfde met de window frame
+
 foto 4:
 
 <img width="449" height="608" alt="image" src="https://github.com/user-attachments/assets/96d4de90-2920-4458-bf3b-c9a2bdc9965b" />
