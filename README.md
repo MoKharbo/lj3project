@@ -72,3 +72,12 @@ Deze script zorgt ervoor dat de player rotate met basis van waar je mouse positi
 
 https://github.com/MoKharbo/lj3project/blob/main/Assets/Scripts/Player/PlayerRotation.cs
 
+Gun:
+
+<img width="894" height="498" alt="image" src="https://github.com/user-attachments/assets/d2a8788b-67aa-4f76-ae97-e087210536ab" />
+
+<img width="714" height="462" alt="image" src="https://github.com/user-attachments/assets/1b1cb0d0-72e6-4e8e-9989-fecff1e7cb90" />
+
+Deze script zorgt ervoor dat de player kan schieten met een raycast zodat het hitscan en niet een projectile is, en als je schiet komt er een shell op de grond voor effect, er komt ook een trail met hulp van de trailrenderer zodat je kan zien waar je schiet.
+
+https://github.com/MoKharbo/lj3project/blob/main/Assets/Scripts/Shooting/Gun.cs
